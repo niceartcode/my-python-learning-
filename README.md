@@ -6,7 +6,7 @@ In diesem Repository speichere ich meine Fortschritte beim Python-Lernen und die
 Dieser Code zeichnet eine mathematische Spirale mithilfe der `turtle`-Bibliothek.
 
 ### Ergebnis:
-![Spiralbild](Link zu deiner Zeichnung hier einfügen)
+![Spiralbild](spiral_result.png)
 
 ### Gelerntes:
 - Verwendung von `for`-Schleifen
